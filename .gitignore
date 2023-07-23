@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Tensor_Puzzlers_NewSol.ipynb
